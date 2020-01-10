@@ -1,0 +1,26 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "This is a Quiz App from a HTML course I'm doing on UDEMY.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doger83/QuizApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doger83/QuizApp/issues"
+  },
+  "homepage": "https://github.com/doger83/QuizApp#readme"
+}
