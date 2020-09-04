@@ -7,7 +7,7 @@
     "doc": "doc"
   },
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {},
   "scripts": {
